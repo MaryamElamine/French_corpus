@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc_description>
+	<doc_name name="Fake_test7.txt"></doc_name>
+	<doc_src>
+		<src name="h155.txt"> 
+			<src_lines> line7190-line7404 </src_lines>
+ 			<plg_lines> line01-line215 </plg_lines>
+		</src>
+		
+		<src name="h167.txt"> 
+			<src_lines> line05-line551 </src_lines>
+			<plg_lines> line218-line764 </plg_lines>
+		</src>
+		
+		<src name="h152.txt"> 
+			<src_lines> line3319-line3962 </src_lines>
+			<plg_lines> line767-line1410 </plg_lines>
+		</src>
+		
+		
+	</doc_src>
+</doc_description>

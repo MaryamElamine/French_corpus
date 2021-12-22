@@ -3,19 +3,23 @@
 	<doc_name name="FakeDev3.txt"></doc_name>
 	<doc_src>
 		<src name="h2.txt"> 
-			<nbr_lines> line6-line1386 </nbr_lines>
+			<src_lines> line06-line1386 </src_lines>
+			<plg_lines> line01-line1381 </plg_lines>
 		</src>
 		
 		<src name="h126.txt"> 
-			<nbr_lines> line1-line609 </nbr_lines>
+			<src_lines> line01-line609 </src_lines>
+			<plg_lines> line1384-line1992 </plg_lines>
 		</src>
 		
 		<src name="h90.txt"> 
-			<nbr_lines> line10-line2568 </nbr_lines>
+			<src_lines> line10-line2568 </src_lines>
+			<plg_lines> line1994-line4552 </plg_lines>
 		</src>
 		
 		<src name="h432.txt"> 
-			<nbr_lines> line41-line5312 </nbr_lines>
+			<src_lines> line41-line5312 </src_lines>
+			<plg_lines> line4555-line9826 </plg_lines>
 		</src>
 	</doc_src>
 </doc_description>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc_description>
+	<doc_name name="FakeDev7.txt"></doc_name>
+	<doc_src>
+		<src name="h142.txt"> 
+			<src_lines> line03-line57 </src_lines>
+			<plg_lines> line01-line55 </plg_lines>
+		</src>
+		
+		<src name="h436.txt"> 
+			<src_lines> line387-line471 </src_lines>
+			<plg_lines> line57-line141 </plg_lines>
+		</src>
+		
+		<src name="h148.txt"> 
+			<src_lines> line424-line539 </src_lines>
+			<plg_lines> line141-line256 </plg_lines>
+		</src>
+		
+		<src name="h436.txt"> 
+			<src_lines> line1665-line1796 </src_lines>
+			<plg_lines> line258-line389 </plg_lines>
+		</src>
+		
+		<src name="h148.txt"> 
+			<src_lines> line747-line854 </src_lines>
+			<plg_lines> line391-line498 </plg_lines>
+		</src>
+		
+	</doc_src>
+</doc_description>

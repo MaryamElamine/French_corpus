@@ -3,67 +3,83 @@
 	<doc_name name="Fake_test5.txt"></doc_name>
 	<doc_src>
 		<src name="h150.txt"> 
-			<nbr_lines> line75-line123 </nbr_lines>
+			<src_lines> line75-line123 </src_lines>
+			<plg_lines> line137-line185 </plg_lines>
 		</src>
 		
 		<src name="h153.txt"> 
-			<nbr_lines> line29-line131 </nbr_lines>
+			<src_lines> line29-line131 </src_lines>
+			<plg_lines> line187-line289 </plg_lines>
 		</src>
 		
 		<src name="h158.txt"> 
-			<nbr_lines> line71-line190 </nbr_lines>
+			<src_lines> line71-line190 </src_lines>
+			<plg_lines> line291-line410 </plg_lines>
 		</src>
 		
 		<src name="h162.txt"> 
-			<nbr_lines> line30-line147 </nbr_lines>
+			<src_lines> line30-line147 </src_lines>
+			<plg_lines> line412-line529 </plg_lines>
 		</src>
 		
 		<src name="h167.txt"> 
-			<nbr_lines> line5-line128 </nbr_lines>
+			<src_lines> line05-line128 </src_lines>
+			<plg_lines> line531-line654 </plg_lines>
 		</src>
 		
 		<src name="h172.txt"> 
-			<nbr_lines> line49-line194 </nbr_lines>
+			<src_lines> line49-line194 </src_lines>
+			<plg_lines> line656-line801 </plg_lines>
 		</src>
 		
 		<src name="h176.txt"> 
-			<nbr_lines> line84-line175 </nbr_lines>
+			<src_lines> line84-line175 </src_lines>
+			<plg_lines> line803-line894 </plg_lines>
 		</src>
 		
 		<src name="h180.txt"> 
-			<nbr_lines> line106-line204 </nbr_lines>
+			<src_lines> line106-line204 </src_lines>
+			<plg_lines> line896-line994 </plg_lines>
 		</src>
 		
 		<src name="h184.txt"> 
-			<nbr_lines> line212-line369 </nbr_lines>
+			<src_lines> line212-line369 </src_lines>
+			<plg_lines> line996-line1153 </plg_lines>
 		</src>
 		
 		<src name="h190.txt"> 
-			<nbr_lines> line100-line180 </nbr_lines>
+			<src_lines> line100-line180 </src_lines>
+			<plg_lines> line1156-line1236 </plg_lines>
 		</src>
 		
 		<src name="h194.txt"> 
-			<nbr_lines> line9-line167 </nbr_lines>
+			<src_lines> line09-line167 </src_lines>
+			<plg_lines> line1237-line1395 </plg_lines>
 		</src>
 		
 		<src name="h199.txt"> 
-			<nbr_lines> line88-line243 </nbr_lines>
+			<src_lines> line88-line243 </src_lines>
+			<plg_lines> line1397-line1552 </plg_lines>
 		</src>
 		
 		<src name="h204.txt"> 
-			<nbr_lines> line39-line175 </nbr_lines>
+			<src_lines> line39-line175 </src_lines>
+			<plg_lines> line01-line136 </plg_lines>
 		</src>
 		
 		<src name="h212.txt"> 
-			<nbr_lines> line60-line126 </nbr_lines>
+			<src_lines> line60-line126 </src_lines>
+			<plg_lines> line1803-line1869 </plg_lines>
 		</src>
 		
 		<src name="h220.txt"> 
-			<nbr_lines> line99-line348 </nbr_lines>
+			<src_lines> line99-line348 </src_lines>
+			<plg_lines> line1553-line1802 </plg_lines>
 		</src>
 		
 		<src name="h226.txt"> 
-			<nbr_lines> line67-line229 </nbr_lines>
+			<src_lines> line67-line229 </src_lines>
+			<plg_lines> line1870-line2032 </plg_lines>
 		</src>
 	</doc_src>
 </doc_description>
